@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
+.header{
+    background-color: darkslategrey;
+    text-align: center;
+  }
+  .about-site{
+    font-size: 20px;
+    opacity: 1;
+  }
+  .title{
+    font-weight: bold;
+  }
+  h1{
+    color: Azure;
+  }
+  .h1{
+    color: black;
+  }
+  body{
+    font-family: Georgia;
+  }
+  h2{
+    font-size: xx-large;
+    font-weight: bold;
+  }
+  img{
+      height: 200px;
+      width: 200px;
+  }
+   button{
+    outline: none;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    font-size: 20px;
+    font-weight: 400;
+    background: mediumseagreen;
+    color: #fff;
+    cursor: pointer;
+    border: 2px solid transparent;
+    transition: all 0.4s ease;
+  }
+  button:hover{
+    border-color: #4070f4;
+    background-color: #fff;
+    color: #4070f4;
+  }
+  
+  a{
+      color:blanchedalmond;
+  }
+  a:link{
+    text-decoration: none;
+  }
+  h3{
+      font-size: large;
+      font-weight: bold;
+      color: darkslategrey;
+  }
+  h4{
+    font-style: oblique;
+    font-weight: bold;
+    color: whitesmoke;
+  }
+  ol{
+      opacity: 1;
+      font-weight: normal;
+      color: coral;
+  }
+  .explore{
+    text-align: center;
+  }
+  .footer{
+    background-color: darkslategrey;
+    text-align: center;
+  }
+  .media-icons{
+    display: none;
+  }
+  
